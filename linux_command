@@ -1,0 +1,52 @@
+-------LINUX COMMAND--------
+
+ls- listing of files and directories.
+ll- long listing of files and directories.
+touch- creating a file.
+mkdir- creating a directory.
+cp- copy a file and directory/ rename a file and directory.
+mv- move a file and direcory/rename a file and directory.
+pwd- current working directory.
+cd- change directory.
+cat- show content of a file.
+more- show the content line by line by enter key and page by page by downkey downward. it can't go upward.
+less- show the content line by line by downward and upward.
+head- show first default 10 lines. 
+tail- show last default 10 lines.
+vi- it is a text editor.
+vim- it is advance text editor.
+nano- it also a text editor.
+grep(global regular expression)- to search pattern from a file.
+echo - print a massage.
+who- show loggedin user.
+whoami- show current user.
+which- to know the path of commands.
+rm -rf- remove files/directories.
+rmdir- remove empty folder.
+man- show command manual.
+clear- clear screen.
+--help- show command options manual.
+history- to show history.
+tar -cvf- to create archieve files.
+tar -xvf- to extract archieve file.
+tar -tvf- to view archieve files.
+zip- compress zip type file.
+unzip- uncompress file.
+ln -s- to create a softlink file.
+ln - to create a hardlink file.
+useradd/adduser- to create an user.
+groupadd- to create a group.
+usermod- modification to a user/group.
+/etc/passwd- users informations.
+/etc/group- group informations.
+passwd- change passwd of an users.
+/etc/shadow- users password info.
+find- to find a file/folder.
+systemctl- to start/stop/enable/disable a sevice.
+journalctl- to troubleshoot or find error.
+sed- to replace a old pattern to new pattern from an outside of a file.
+chmod- change a file permission.
+df -h- memory info.
+yum/dnf- to install a package.
+curl- to download though urls.
+wget- to download fron internet.
