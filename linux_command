@@ -17,6 +17,14 @@ vi- it is a text editor.
 vim- it is advance text editor.
 nano- it also a text editor.
 grep(global regular expression)- to search pattern from a file.
+   -i- ignore case sensetive
+   -v- ignore that search word
+   -w- print exact search word.
+   -c- count that search word.
+   -n- which no. that search word is present.
+   -A(n)- print no. of words below that search word.
+   -B(n)- print no. of words above that search word.
+   -C(n)- print no. of words both above & below that search word.
 echo - print a massage.
 who- show loggedin user.
 whoami- show current user.
